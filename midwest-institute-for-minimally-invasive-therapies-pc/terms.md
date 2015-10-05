@@ -1,6 +1,6 @@
 Midwest Institute for Minimally Invasive Therapies
 ==================================== 
-### Notice of Privacy Practices ###
+##Notice of Privacy Practices##
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
 **Our Responsibilities**
@@ -10,7 +10,8 @@ We reserve the right to change our privacy practices and the terms of this notic
 
 For more information about our privacy practices, or for additional copies of this notice, please contact us using the information listed at the end of this notice.
 
-<strong>Uses and Disclosures of Protected Health Information</strong>
+**Uses and Disclosures of Protected Health Information**
+
 We use and disclose PHI about you for treatment, payment, and health care operations. Following are examples of the types of uses and disclosures that we are permitted to make.
 
 *Treatment:*  We may use or disclose your PHI to a physician or other health care provider providing treatment to you. We may use or disclose your PHI to a health care provider so that we can make prior authorization decisions under your benefit plan.
@@ -124,7 +125,7 @@ Your insurance company may require a pre-certification, prior authorization, or 
 
 **Continuing Agreement:** I have read this information carefully and agree that everything in this Agreement applies to current and future health care services provided by MIMIT. I acknowledge that MIMIT may change these terms without notice to me.
 
-###Informed Consent for Telemedicine Services###
+##Informed Consent for Telemedicine Services##
 Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. Providers may include primary care practitioners, specialists, and/or subspecialists. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
 
 - Patient medical records
