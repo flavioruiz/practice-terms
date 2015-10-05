@@ -4,6 +4,7 @@ Midwest Institute for Minimally Invasive Therapies
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
 **Our Responsibilities**
+
 The Midwest Institute for Minimally Invasive Therapies (MIMIT) is required by applicable federal and state law to maintain the privacy of your protected health information. “Protected health information” (PHI) is information about you, including demographic information, that may identify you and that relates to your past, present or future physical or mental health or condition and related health care services. We are also required to give you this notice about our privacy practices, our legal duties, and your rights concerning your PHI. We must follow the privacy practices that are described in this notice while it is in effect. This notice takes effect April 14, 2003, and will remain in effect until we replace it.
 
 We reserve the right to change our privacy practices and the terms of this notice at any time, provided such changes are permitted by applicable law. We reserve the right to make the changes in our privacy practices and the new terms of our notice effective for all PHI that we maintain, including PHI we created or received before we made the changes. Before we make a significant change in our privacy practices, we will change this notice and make the new notice available upon request.
