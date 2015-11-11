@@ -21,7 +21,7 @@ As with any medical procedure, there are potential risks associated with the use
 - Delays in medical evaluation and treatment could occur due to deficiencies or failures of the equipment.  In the event that there is an equipment or technological failure during a telemedicine encounter, you should call the following phone number for instructions from your QuickCare.me practitioner on how to receive follow-up or ongoing care 361-779-5999;
 - In very rare instances, security protocols could fail, causing a breach of privacy of personal medical information;
 - In rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or other judgment errors;
-- In the event of any adverse or unexpected reaction to treatment that may occur during or after your telemedicine encounter, your should follow-up with your primary care physician or emergency room, if applicable, or call your QuickCare.me practitioner at the following phone number: 361-779-5999,
+- In the event of any adverse or unexpected reaction to treatment that may occur during or after your telemedicine encounter, your should follow-up with your primary care physician or emergency room, if applicable, or call your QuickCare.me practitioner at the following phone number: 361-779-5999.
 ###By signing this form, I understand the following:###
 
 1. I understand that I have the right to withhold or withdraw my consent to the use of  telemedicine in the course of my care at any time, without affecting my right to future care or treatment.
