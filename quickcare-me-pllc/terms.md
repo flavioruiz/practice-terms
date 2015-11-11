@@ -14,6 +14,7 @@ Electronic systems used will incorporate network and software security protocols
 - Improved access to medical care by enabling a patient to remain at a remote site while the practitioner obtains test results and consults from healthcare practitioners at distant/other sites.
 - More efficient medical evaluation and management.
 - Obtaining expertise of a distant specialist.
+
 ###Possible Risks:###
 As with any medical procedure, there are potential risks associated with the use of telemedicine. These risks include, but may not be limited to:
 
@@ -22,6 +23,7 @@ As with any medical procedure, there are potential risks associated with the use
 - In very rare instances, security protocols could fail, causing a breach of privacy of personal medical information;
 - In rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or other judgment errors;
 - In the event of any adverse or unexpected reaction to treatment that may occur during or after your telemedicine encounter, your should follow-up with your primary care physician or emergency room, if applicable, or call your QuickCare.me practitioner at the following phone number: 361-779-5999.
+
 ###By signing this form, I understand the following:###
 
 1. I understand that I have the right to withhold or withdraw my consent to the use of  telemedicine in the course of my care at any time, without affecting my right to future care or treatment.
