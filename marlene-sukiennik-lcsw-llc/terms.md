@@ -1,12 +1,13 @@
-MARLENE SUKIENNIK, LCSW, LLC
-CERTIFIED DISTANCE COUNSELOR
-245 W Wieuca Rd NE #140
-Atlanta, GA  30342
-678-720-8921
+**MARLENE SUKIENNIK, LCSW, LLC**
+**CERTIFIED DISTANCE COUNSELOR**
+**245 W Wieuca Rd NE #140**
+**Atlanta, GA  30342**
+**678-720-8921**
 
-<center>**INFORMED CONSENT FOR ASSESSMENT AND TREATMENT**
-**FACE-TO-FACE COUNSELING**
-**TELEHEALTH COUNSELING**</center>
+
+<center>**INFORMED CONSENT FOR ASSESSMENT AND TREATMENT**</center>
+<center>**FACE-TO-FACE COUNSELING**</center>
+<center>**TELEHEALTH COUNSELING**</center>
 
 Welcome to my counseling practice.  I am committed to getting you whatever your outcome is for our time together.  A counseling situation offers a unique relationship between the two of us.  In order that we start our relationship in a healthy way, I have put together this document to ensure that there are no misunderstandings about the various aspects of the counseling and psychotherapy services.
 
