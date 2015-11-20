@@ -1,7 +1,11 @@
 <p>**MARLENE SUKIENNIK, LCSW, LLC**</p>
+
 <p>**CERTIFIED DISTANCE COUNSELOR**</p>
+
 <p>**245 W Wieuca Rd NE #140**</p>
+
 <p>**Atlanta, GA  30342**</p>
+
 <p>**678-720-8921**</p>
 
 <center>**INFORMED CONSENT FOR ASSESSMENT AND TREATMENT**</center>
