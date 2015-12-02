@@ -1,4 +1,4 @@
-##Biopotentials® Sleep Center##
+**Biopotentials® Sleep Center**
 
 Informed Consent for Telemedicine Services
 =============
