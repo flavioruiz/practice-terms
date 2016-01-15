@@ -87,8 +87,6 @@ I hereby authorize Life Wellness Center & Bookstore, LLC to bill my insurance co
 
 **For patients without health insurance**: I hereby authorize Life Wellness Center & Bookstore, LLC to bill my credit card on file for telemedicine services rendered. I acknowledge that the cost of the visits are as follows:
 
-Brief Follow Up: $125 for visits 30 minutes or less
-
-Extended Follow Up: $250 for visits 30-60 minutes
-
+Brief Follow Up: $125 for visits 30 minutes or less<br>
+Extended Follow Up: $250 for visits 30-60 minutes<br>
 Additional Time: $62.50/each additional 15 minutes
