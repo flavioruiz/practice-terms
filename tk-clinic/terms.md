@@ -41,6 +41,10 @@ of my personal medical information to other medical practitioners who may be loc
 8. I grant tk.Clinic permission to use my health, medical and nutrition information to document outcome-based research and for quality improvement purposes with acknowledgement of privacy and confidentiality agreement, and recognition of abstinence of use of personal information, including names and addresses.
 9. I understand that I will need to arrive on time or 5 minutes ahead so that tk.Clinic will be able to deliver an efficient medical nutrition therapy and care. If late, tk.Clinic will ask me to reschedule for another available appointment, unless I get a place without disturbing others’ appointments.
 10. I understand that in the event of an emergency, I will inform tk.Clinic of canceling my appointment by email, or phone, preferably 24 hours in advance, or on the same day at the most in order to enable us fit other individuals on the waiting list. Failure to do so will result in delaying my future appointments.
-11. I understand that it is strictly forbidden to use any mobile phone during the tk.Clinic session, whether during the assessment visit or follow up sessions. I also confirm turning my mobile phone into SILENT mode or OFF mode. Patient Consent to The Use of Telemedicine I have read and understand the information provided above regarding telemedicine, have discussed it with my registered dietitian nutritionist, or such assistants as may be designated, and all of my questions have been answered to my satisfation.
+11. I understand that it is strictly forbidden to use any mobile phone during the tk.Clinic session, whether during the assessment visit or follow up sessions. I also confirm turning my mobile phone into SILENT mode or OFF mode. 
+
+Patient Consent to The Use of Telemedicine
+
+I have read and understand the information provided above regarding telemedicine, have discussed it with my registered dietitian nutritionist, or such assistants as may be designated, and all of my questions have been answered to my satisfation.
 
 I hereby give my informed consent for the use of telemedicine in my medical and nutrition care.
