@@ -1,6 +1,7 @@
 Informed Consent for Telemedicine Services
-==================================== 
-Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. Providers may include primary care practitioners, specialists, and/or subspecialists. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
+=============
+
+Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
 
  - Patient medical records
  - Medical images
@@ -11,7 +12,7 @@ Electronic systems used will incorporate network and software security protocols
 
 **Expected Benefits:**
 
- - Improved access to medical care by enabling a patient to remain in his/her ophthalmologist’s office (or at a remote site) while the physician obtains test results and consults from healthcare practitioners at distant/other sites.
+ - Improved access to medical care by enabling a patient to remain in his/her physician’s office (or at a remote site) while the physician obtains test results and consults from healthcare practitioners at distant/other sites.
  - More efficient medical evaluation and management.
  - Obtaining expertise of a distant specialist.
 
@@ -31,14 +32,16 @@ By agreeing to this form, I understand the following:
 
 3. I understand that I have the right to inspect all information obtained and recorded in the course of a telemedicine interaction, and may receive copies of this information for a reasonable fee.
 
-4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My ophthalmologist has explained the alternatives to my satisfaction.
+4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My doctor has explained the alternatives to my satisfaction.
 
 5. I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.
 
-6. I understand that it is my duty to inform my ophthalmologist of electronic interactions regarding my care that I may have with other healthcare providers.
+6. I understand that it is my duty to inform my doctor of electronic interactions regarding my care that I may have with other healthcare providers.
 
 7. I understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured.
 
 **Patient Consent To The Use of Telemedicine**
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
+
+[20160125]
