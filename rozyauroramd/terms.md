@@ -1,18 +1,13 @@
 ###Rozy Aurora, MD###
-510 North Broadway,<br>
-
-White Plains, NY 10603<br>
-
-Phone: (914) 560 6833 <br>
-
-Fax: (914) 885 2977 <br><br>
-
-Adult, Child and Adolescent Psychiatrist<br>
-
-Web: www.rozyaurora.com<br>
-
-Email: rozy@rozyaurora.com<br>
-
+510 North Broadway,  
+White Plains, NY 10603  
+Phone: (914) 560 6833  
+  
+Fax: (914) 885 2977  
+Adult, Child and Adolescent Psychiatrist  
+Web: www.rozyaurora.com  
+Email: rozy@rozyaurora.com  
+  
 TELEPSYCHIATRY INFORMED CONSENT
 ===========
 Telepsychiatry involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
