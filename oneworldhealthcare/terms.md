@@ -44,4 +44,4 @@ By agreeing to this form, I understand the following:
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
 
-[v20160408]
+[v20160413]
