@@ -1,7 +1,5 @@
-Informed Consent for Telemedicine Services
+Greenway Virtual Clinic
 =============
-
-##Greenway Virtual Clinic##
 
 Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
 
