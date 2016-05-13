@@ -15,6 +15,7 @@ All interactions and information is protected under HIPPA laws and will be treat
 Patients have expanded access to medical care and advice in the comfort of their own home and visits can be scheduled outside of regular office hours.
 
 **Possible Risks**
+
 As with all medical interactions, there are potential risks associated with the use of the eVisit telemedicine platform. The risks include, but are not limited to:
 
 - Technical difficulties may make information transmission of insufficient quality for appropriate medical decision making (such as poor image resolution)
@@ -36,6 +37,7 @@ As with all medical interactions, there are potential risks associated with the 
 
 **I have read and understood the information provided about telemedicine and have had the opportunity to have my questions answered by the medical provider.  I hereby give consent to use eVisit telemedicine virtual care for the care of my child.***
 
-[eVisit Privacy Policy](http://evisit.com/privacy-policy/)
+eVisit Privacy Policy
+http://evisit.com/privacy-policy/
 
 [v20160513]
