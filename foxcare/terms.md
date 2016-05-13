@@ -37,13 +37,6 @@ As with all medical interactions, there are potential risks associated with the 
 
 **I have read and understood the information provided about telemedicine and have had the opportunity to have my questions answered by the medical provider.  I hereby give consent to use eVisit telemedicine virtual care for the care of my child.***
 
-eVisit Privacy Policy <br />
-http://evisit.com/privacy-policy/
-
-
-[eVisit Privacy Policy](http://evisit.com/privacy-policy/)
-
-
-[http://evisit.com/privacy-policy/](eVisit Privacy Policy)
+<a href="http://evisit.com/privacy-policy/">eVisit Privacy Policy</a>
 
 [v20160514]
