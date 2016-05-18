@@ -28,13 +28,13 @@ The purpose of this agreement is to protect patient access to controlled substan
 24. I will not share or sell my pain medication. I will take every possible precaution to make sure no one else has access to it whether at home or work.
 25. I understand that I should dispose of any leftover medicine at an official DEA drug take-back program or follow the FDA recommendations for disposal.  I have read the handout about this.
 26. If I do not adhere to this agreement you, as my provider, will do one or more of the following:
-Discharge me from your care.
 
-- Change my medication.
-- Change how often I see you.
-- Perform additional testing to monitor my compliance.
-- Refer me to other specialists.
-- Require assistance in the management of my medications.
+ - Discharge me from your care.
+ - Change my medication.
+ - Change how often I see you.
+ - Perform additional testing to monitor my compliance.
+ - Refer me to other specialists.
+ - Require assistance in the management of my medications.
 
 ***Pain Medication Agreement***
 
