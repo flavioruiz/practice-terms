@@ -24,24 +24,38 @@ As with any medical procedure, there are potential risks associated with the use
  - In very rare instances, security protocols could fail, causing a breach of privacy of personal medical information;
  - In rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or other judgment errors;
 
-By agreeing to this form, I understand the following:
-
 1. I understand that the laws that protect privacy and the confidentiality of medical information also apply to telemedicine, and that no information obtained in the use of telemedicine, which identifies me, will be disclosed to researchers or other entities without my consent.
 
 2. I understand that I have the right to withhold or withdraw my consent to the use of telemedicine in the course of my care at any time, without affecting my right to future care or treatment.
 
 3. I understand that I have the right to inspect all information obtained and recorded in the course of a telemedicine interaction, and may receive copies of this information for a reasonable fee.
 
-4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My doctor has explained the alternatives to my satisfaction.
+4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My provider has explained the alternatives to my satisfaction.
 
 5. I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.
 
-6. I understand that it is my duty to inform my doctor of electronic interactions regarding my care that I may have with other healthcare providers.
+6. I understand that it is my duty to inform my provider of electronic interactions regarding my care that I may have with other healthcare providers.
 
 7. I understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured.
 
-**Patient Consent To The Use of Telemedicine**
+**Patient Consent to the Use of Telemedicine**
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
 
-[v20160707]
+
+______________________________________________           ___________________
+Patient /Representative Signature	                     Date
+
+**Financial Responsibility:**
+
+Telemedicine is not yet covered by all insurance companies. Medical Assistance plans do not allow telemedicine and therefore patients with a Medical Assistance plan cannot participate in virtual visits. Medicare and Medicare Advantage plans do not pay for telemedicine visits but you have the right to participate and to pay PPCP directly for the visits once you have completed the necessary forms. PPCP will bill all other health insurance plans for the telemedicine visit. Depending on your insurance company and your plan, you might have no coverage, you may have a copay per visit or may have to meet your annual deductible. Therefore you may be billed for your cost share. For patients that do not have insurance coverage for telehealth visits, or for patients that do not want their insurance company billed for the visits, the fee is $49 per visit
+
+I understand and agree to the above financial circumstances.
+
+
+______________________________________________     _____________________
+Patient/Representative Signature                   Date
+
+
+
+[v20160709]
