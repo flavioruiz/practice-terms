@@ -43,8 +43,9 @@ As with any medical procedure, there are potential risks associated with the use
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
 
 
-______________________________________________           ___________________
-Patient /Representative Signature	                     Date
+
+---------------------------------                  -------------------Patient /Representative Signature	                     Date
+
 
 **Financial Responsibility:**
 
@@ -53,7 +54,7 @@ Telemedicine is not yet covered by all insurance companies. Medical Assistance p
 I understand and agree to the above financial circumstances.
 
 
-______________________________________________     _____________________
+---------------------------------                  -------------------
 Patient/Representative Signature                   Date
 
 
