@@ -48,9 +48,7 @@ By agreeing to this form, I understand the following:
 
 11. In an emergent consultation, I understand that the responsibility of the telemedicine consulting specialist is to advise my local practitioner and that the specialist’s responsibility will conclude upon the termination of the video conference connection. 
 
-
 12. I hereby assign and transfer all of my rights, entitlement and interest in all benefits and payments now due and payable, or that become due and payable, under any insurance policies, any replacement policies, any self-insurance program, worker compensation plan, employers and state welfare funds, or under any other benefit or entitlement plan for related outpatient care to or its agents or divisions. In addition, I authorize the release of any medical information deemed necessary by PromptServe Family Medicine LLC or its agents or divisions to my insurance carrier or any entitlement program provider in order to determine the benefits applicable to this date of service. This authorization shall remain valid until written notice is given by me revoking said authorization. I understand that I am financially responsible for all charges, whether or not they are covered by my insurance carrier or entitlement plan, including Medicare and, delinquent accounts shall bear interest at the legal rate allowed. 
-
 
 13. If PromptServe Family Medicine LLC has an agreement with my health plan or insurer, I understand that I am responsible for paying any copayment or deductible amount today. I understand that I will be billed for any deductible, co-insurance, or non-covered services deemed my responsibility by my insurance carrier or entitlement plan. I agree to pay collection costs and reasonable attorney fees incurred in attempting to collect any outstanding balances on my account. 
 
