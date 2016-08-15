@@ -1,5 +1,5 @@
-Terms
-=======
+##Terms##
+
 **IN ORDER TO CONTROL YOUR COST OF BILLINGS, WE REQUEST THAT OUR CHARGE FOR OFFICE VISITS BE PAID AT THE TIME OF EACH VISIT.**
 
 I authorize the release of any medical information necessary to determine liability for payment and to obtain reimbursement on any claim.
