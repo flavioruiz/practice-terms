@@ -6,23 +6,9 @@ I authorize the release of any medical information necessary to determine liabil
 
 I request that payment of authorized benefits be made on my behalf. I assign the benefits payable for all medical and/or surgical benefits, to include major medical benefits to which I am entitled including Medicare, private insurance and other agency reimbursements to this center. This assignment will remain in effect until revoked by me in writing. A photocopy of this assignment is to be considered as valid as an original. I understand that I am financially responsible for all charges whether or not paid by said insurance. I hereby authorize said assignee to release all information necessary to secure the payment.
 
-<br />
-<hr />Signature	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Date
-<br /><br /><br />
-
 **OUR FINANCIAL POLICY**: Unless other arrangements have been made in advance, payment is due at the time of service. Co-payments are always due at the time of your visit. For your convenience, we accept personal checks, cash, Visa, MasterCard and American Express. If you do not have active insurance coverage or do not have documentation of your coverage, we will ask that you pay for services at the time of your visit. We require our staff to check your insurance card at each visit, so please have it ready at the time of check-in. We participate with most major carriers and will bill those plans with which we have an agreement. All co-payments or deductibles are due at the time of service. In the event your health plan determines a service to be not covered, you will be responsible for the charges. Additional professional services such as lab work and radiology services not performed at our facility will be billed separately and will not be part of the charges from our office. We use the services of an outside collection agency for past due accounts. In the event that attorney and/or court fees are required to collect your account balance you will be responsible for those charges in addition to your charges from our practice. Patients with accounts in bad debt will not be allowed to schedule further appointments until the balance is paid in full. MINORS: all services rendered to minors will be the financial responsibility of the adult accompanying the minor. I have read and understand the financial policy of St. Francis Medical Group, P.C. (DBA: St. Francis Urgent Care Center) and I agree to be bound by its terms. By entering my name below I agree to the above.
 
-
-<br />
-<hr />Signature	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Date
-<br /><br /><br />
-
 CONCENT FOR TREATMENT: I, the undersigned, do hereby authorize and consent to perform any medical treatment deemed necessary and rendered under the general or special supervision of any member of the medical staff of St. Francis Urgent Care Center licensed under the provisions of the laws and regulations governing the practice of medicine in California. It is understood that this authorization is given in advance of any specific diagnosis, treatment or care being required but is given to provide authority and power to render care which the provider on duty, in the exercise of his/her best judgment, may deem advisable.
-
-
-<br />
-<hr />Signature	 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Date
-<br /><br /><br />
 
 Effective Date: NOVEMBER 2014
 
