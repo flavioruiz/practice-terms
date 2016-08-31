@@ -40,4 +40,6 @@ By agreeing to this form, I understand the following:
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my provider or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
 
-[v20160726]
+ I understand that Bay Area Cosmetic Dermatology is only able to provide care to patients within the state of California. I hereby attest that my location at the time of my eVisit will be within the state of California.
+
+[v20160831]
