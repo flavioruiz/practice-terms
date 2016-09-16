@@ -1,4 +1,4 @@
-Informed Consent for Telemedicine Services
+Prime Psychiatry Informed Consent for Telemedicine Services
 =============
 
 Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
@@ -43,5 +43,7 @@ By agreeing to this form, I understand the following:
 **Patient Consent To The Use of Telemedicine**
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
+ 
+I am aware that Prime Psychiatry eVisits are self-pay only. I hereby agree to waive my insurance for this visit and pay the stipulated fees, unless otherwise clearly stated in writing ​by a member of staff in a facility affiliated with Prime Psychiatry. I am also aware that Prime Psychiatry eVisits can only be done when I am within the state of Texas.
 
-[v20160808]
+[v20160916]
