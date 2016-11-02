@@ -65,6 +65,7 @@ To law enforcement authorities to protect public safety or to assist in apprehen
 criminal offenders;
 When required by court orders, search warrants, subpoenas and as otherwise required
 by law.
+
 **Patient's Rights.**
 ​As our patient, you have the following rights:
 To have right of access to and/or a copy of your health information;
