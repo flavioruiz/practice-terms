@@ -145,7 +145,6 @@ experience withdrawal symptoms when they stop.
 Symptoms of withdrawal, while
 generally mild, can include:
 - Feelings of depression, sadness or irritability
-
 - Insomnia
 - Sleep disturbances
 - Unusual tiredness
@@ -153,12 +152,12 @@ generally mild, can include:
 - Loss of appetite
 
 I understand that the medical plant covered under proposition 215 is not a food crop
-and therefore not regulated by the Food and Drug Administration and may contain
-unknown quantities of impurities, active ingredients and/or contaminants. While under
-the influence of such medication, the use of alcohol is not recommended. The possibility
-exists that such medication may exacerbate schizophrenia in persons predisposed to
+and therefore not regulated by the Food and Drug Administration and may contain unknown quantities of impurities, active ingredients and/or contaminants. While under
+the influence of such medication, the use of alcohol is not recommended. The possibility exists that such medication may exacerbate schizophrenia in persons predisposed to
 that disorder, although such medication does not produce any known psychosis.
+
 In addition, the undersigned, my heirs, assigns or anyone acting on my behalf, hold the physician and his principals, agents and lease managers, free and harmless from any and all responsibility for any and all unforeseen harm resulting to me and/or any other individuals as a result of my use of my compassionate use recommendation.
+
 The Steady Care Medical – Online Medical Card staff physician has explained to the patient, the nature and purpose of alternative herbal medication allowed under Proposition 215 SB 420 treatment including its benefits and possible side effects and have asked the patient if he/she has any questions regarding his/her treatment with
 such medication and answered those questions to the best of our ability.
 
