@@ -40,6 +40,8 @@ By agreeing to this form, I understand the following:
 
 7. I understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured.
 
+8. I understand that I am not allowed to record any visit I have through the telemedicine platform for any reason.
+
 **Patient Consent To The Use of Telemedicine**
 
 I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
