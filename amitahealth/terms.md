@@ -1,47 +1,70 @@
-Informed Consent for Telemedicine Services
+eAMITA Terms of Use
 =============
 
-Telemedicine involves the use of electronic communications to enable health care providers at different locations to share individual patient medical information for the purpose of improving patient care. The information may be used for diagnosis, therapy, follow-up and/or education, and may include any of the following:
+This Terms of Use Agreement (“Agreement”) is a binding agreement between the end user of eAMITA (“you” or “your”) and AMITA Health Medical Group and its managed entities (hereinafter, “we” or “us”).  This Agreement governs your use of eAMITA. 
 
- - Patient medical records
- - Medical images
- - Live two-way audio and video
- - Output data from medical devices and sound and video files
+Read the following Terms of Use before using the eAMITA website.
 
-Electronic systems used will incorporate network and software security protocols to protect the confidentiality of patient identification and imaging data and will include measures to safeguard the data and to ensure its integrity against intentional or unintentional corruption.
+BY USING eAMITA, you (A) ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT; (B) REPRESENT THAT YOU ARE 18 YEARS OF AGE OR OLDER; AND (C) ACCEPT THIS AGREEMENT AND AGREE THAT YOU ARE LEGALLY BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE eAMITA.  
+Do not use eAMITA for emergency medical needs. eAMITA is not appropriate to address emergency or life-threatening medical conditions, and should not be used in such circumstances. <strong>IF YOU BELIEVE YOUR SITUATION INVOLVES A MEDICAL EMERGENCY, IMMEDIATELY CALL 911 OR GO TO A HOSPITAL EMERGENCY ROOM. eAMITA OR THE PROVIDERS MAY REFER YOU TO AN EMERGENCY ROOM OR ANOTHER APPROPRIATE FACILITY AT ANY TIME.</strong>
 
-**Expected Benefits:**
+1) eAMITA. eAMITA arranges for medical care by licensed and board-certified medical providers in Illinois ("Providers"). eAMITA provides access to non-emergency medical care related to common health concerns through video-based or telephonic encounters that we refer to as “Virtual Visits”. We have contracted with eVisit LLC for the technology services and intellectual property to offer these Virtual Visits.
 
- - Improved access to medical care by enabling a patient to remain in his/her physician’s office (or at a remote site) while the physician obtains test results and consults from healthcare practitioners at distant/other sites.
- - More efficient medical evaluation and management.
- - Obtaining expertise of a distant specialist.
+2) eVisit LLC.  eVisit LLC is not a healthcare provider and takes no part in your medical diagnosis or treatment. eVisit LLC operates the eAMITA website which facilitates access to healthcare services delivered by licensed healthcare providers through us.
 
-**Possible Risks:**
-As with any medical procedure, there are potential risks associated with the use of telemedicine. These risks include, but may not be limited to:
+3) Requirements to Use eAMITA. To use eAMITA and receive an appointment for a Virtual Visit, you must meet the following requirements:
+A.	You must be 18 years of age or older. A parent or legal guardian may request an appointment on behalf of minor children and/or dependents. However, eAMITA will not arrange a Virtual Visit for any minor, even if such minor is legally authorized to consent to such treatment, without the minor’s parent or legal guardian participating in the scheduling and eAMITA account creation.
+B.	You must be currently located in the State of Illinois. Virtual Visits are only provided to individuals located in Illinois.
+C.	Your browser must meet the minimum requirements (variant limitations may apply): (i) Google Chrome v41 or above; (ii) Firefox v40 or above; (iii) Android 4.3 or above. 
 
- - In rare cases, information transmitted may not be sufficient (e.g. poor resolution of images) to allow for appropriate medical decision making by the physician and consultant(s);
- - Delays in medical evaluation and treatment could occur due to deficiencies or failures of the equipment;
- - In very rare instances, security protocols could fail, causing a breach of privacy of personal medical information;
- - In rare cases, a lack of access to complete medical records may result in adverse drug interactions or allergic reactions or other judgment errors;
+5) Privacy. Your privacy is of the utmost importance. Any use or disclosure of your health information through eAMITA is described under our Notice of Privacy Practices provided with the General Consent for Treatment and Contract for eAMITA Services. 
 
-By agreeing to this form, I understand the following:
+You acknowledge and agree that when you use eAMITA, we may use automatic means (including, for example, cookies and web beacons) to collect information about your use of eAMITA, device information, and log data. All information eAMITA collects through or in connection with your use of eAMITA is subject to the Notice of Privacy Practices.
 
-1. I understand that the laws that protect privacy and the confidentiality of medical information also apply to telemedicine, and that no information obtained in the use of telemedicine, which identifies me, will be disclosed to researchers or other entities without my consent.
+In certain cases, and only with your express permission, we may post content from your emails to our websites.
 
-2. I understand that I have the right to withhold or withdraw my consent to the use of telemedicine in the course of my care at any time, without affecting my right to future care or treatment.
+Surveys and Market Research. We are committed to constantly improving our services. To support this commitment we may occasionally ask users of our site to complete online surveys, or to participate in online or in-person feedback meetings. If you choose to participate in one of these activities we may ask you to submit personal information. The information you submit may be used to measure of the effectiveness of our website, services and content and we may ask for your permission to share your feedback publicly via our third party survey partners.
+When you are on the eAMITA website you may have the opportunity to visit or link to other websites, including websites operated by unaffiliated third parties. These websites may collect personal information about you, and because this Privacy Policy does not address the information practices of those other websites, you should review the privacy policies of such other websites to see how they treat your personal information.
+We take information security seriously. We use technical, physical and operational safeguards to preserve the security of your personal information, both when it is transmitted to us and when we receive it. When you enter sensitive information (such as a credit card number) on our website, we encrypt the transmission of that information using Secure Socket Layer (SSL) technology. Video streams used for patient webcam visits are encrypted and are not recorded or stored. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee absolute security of your personal information.
 
-3. I understand that I have the right to inspect all information obtained and recorded in the course of a telemedicine interaction, and may receive copies of this information for a reasonable fee.
+The Notice of Privacy Practices and this Section 5 may change from time to time. In the event there are material changes in the way we treat your personal information, we will display a notice on the eAMITA website and/or send you an email so that you may review the changed terms prior to continuing to use the site. By continuing to use the eAMITA services after those changes become effective, you agree to be bound by the revised Notice of Privacy Practices and Section 5.
 
-4. I understand that a variety of alternative methods of medical care may be available to me, and that I may choose one or more of these at any time. My doctor has explained the alternatives to my satisfaction.
+6) Cost of Service.  You agree that you are financially responsible for any fees incurred from receiving a Virtual Visit or other health care services received pursuant to eAMITA. By using eAMITA, you are authorizing us to charge your credit card for the full amount due from you with respect to your Virtual Visit. We will not seek reimbursement from your health plan or from Medicare or Medicaid. You are fully responsible for the cost of your Virtual Visit.
+You understand that this authorization to bill your credit card or debit card (including any other accepted payment mechanism) will remain in effect until you cancel it in writing, and you agree to notify us in writing of any changes in your account information. In the case of an ACH Transaction being rejected for Non-Sufficient Funds (NSF), you understand that we may at our discretion attempt to process the charge again at any time within 30 days. You acknowledge that the origination of ACH transactions to your account must comply with the provisions of U.S. law. You certify that you are an authorized user of this credit card/bank account and will not dispute these scheduled transactions with your bank or credit card company, so long as the transactions correspond to the charges for the healthcare you received.
 
-5. I understand that telemedicine may involve electronic communication of my personal medical information to other medical practitioners who may be located in other areas, including out of state.
+7) Notices. You agree that we may send to you in electronic form any privacy or other notices, disclosures, reports, documents, communications or other records regarding the services. We can send you electronic notices: (1) to the e-mail address that you provided to us during registration, or (2) by posting the notice on the applicable service or otherwise through the eAMITA website. The delivery of any notice from us is effective when sent by us, regardless of whether you read the notice.
 
-6. I understand that it is my duty to inform my doctor of electronic interactions regarding my care that I may have with other healthcare providers.
+8) Use of eAMITA and Indemnification. You understand and agree that you are personally responsible for your behavior on the eAMITA website. You agree to indemnify, defend and hold harmless us, eVisit LLC, and our and its subsidiaries, affiliates, joint ventures, business partners, sub-contractors, providers, licensors, employees, agents, and any third-party information providers from and against all claims, losses, expenses, damages and costs (including, but not limited to, direct, incidental, consequential, exemplary and indirect damages), and reasonable attorneys’ fees, resulting from or arising out of your use of, or inability to use, the eAMITA website, your use of eAMITA services, or any violation by you of this Agreement.
 
-7. I understand that I may expect the anticipated benefits from the use of telemedicine in my care, but that no results can be guaranteed or assured.
+9) Ownership. All of the content featured or displayed on the eAMITA website, is owned by us, eVisit LLC, and their licensors, vendors, agents and/or content providers. All elements of the eAMITA website, including without limitation the general design and the content, are protected by trade dress, copyright, moral rights, trademark and other laws relating to intellectual property rights. The Virtual Visits and the eAMITA website may only be used for the intended purpose for which the eAMITA website and Virtual Visits are being made available. Except as permitted by copyright law, you may not modify any of the materials nor may you copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer or sell any information or work contained on the eAMITA website. You may not use, copy, reproduce, republish, upload, post, transmit, distribute, or modify our trademarks in any way, including in advertising or publicity pertaining to distribution of materials on the eAMITA website, without our prior written consent.
 
-**Patient Consent To The Use of Telemedicine**
+We make no representation as to the completeness, accuracy or currency of any information on the eAMITA website.
 
-I have read and understand the information provided above regarding telemedicine, have discussed it with my physician or such assistants as may be designated, and all of my questions have been answered to my satisfaction. I hereby give my informed consent for the use of telemedicine in my medical care.
+10. Third Party Websites. From time to time, the eAMITA website may contain links to web sites that are not owned, operated or controlled by us. All such links are provided solely as a convenience to you. Neither we nor any of our respective affiliates endorse, guarantee, or make any representations or warranties regarding any other web sites, or any content, materials or other information located or accessible from any other web sites, or the results that you may obtain from using any other web sites.
 
-[v20161206]
+11) Use Restrictions. You agree that you will not: 
+(i) 	take any action that imposes, or may impose in our sole discretion an unreasonable or disproportionately large load on our infrastructure; 
+(ii) 	interfere or attempt to interfere with the proper working of the site or any activities conducted on the eAMITA website; 
+(iii) 	rent, lease, lend, sell, sublicense, assign, distribute, publish, publicly perform or display, transfer or otherwise make available the eAMITA website or any features or functionality of the eAMITA website, to any third party for any reason, including by making the eAMITA website available on a network where it is capable of being accessed by more than one device at any time;
+(iv) 	remove, disable, bypass, circumvent or otherwise create or implement any workaround to any measures we may use to prevent or restrict access to the eAMITA website, any copy protection, rights management or security features in or protecting the eAMITA website; or
+(v)	upload or introduce any virus or malware to the eAMITA website.
+
+12) Disclaimer of Warranties. YOU ACKNOWLEDGE THAT YOUR USE OF THE eAMITA WEBSITE IS PROVIDED TO YOU "AS IS" AND “AS AVAILABLE” WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WE MAKE NO WARRANTY THAT THE eAMITA WEBSITE WILL BE AVAILABLE OR UNINTERRUPTED, TIMELY, 100% SECURE, OR ERROR FREE, OR THAT DEFECTS, IF ANY, WILL BE CORRECTED. WE ARE NOT RESPONSIBLE FOR TRANSMISSION ERRORS OR CORRUPTION OR COMPROMISE OF DATA CARRIED OVER LOCAL OR INTERCHANGE TELECOMMUNICATION CARRIERS.
+
+We will take commercially reasonable precautions to protect against failure of our equipment and software. You are at all times responsible for your technology, such as your device and internet service provider, used to access the eAMITA services. You acknowledge and agree that temporary interruptions in service may occur. 
+
+13. Limitation of Liability. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL we, eVisit LLC, and our and its subsidiaries, affiliates, joint ventures, business partners, sub-contractors, providers, licensors, employees, agents, and any third-party information providers, HAVE ANY LIABILITY ARISING FROM OR RELATED TO YOUR USE OF OR INABILITY TO USE THE APPLICATION OR THE CONTENT AND SERVICES FOR PERSONAL INJURY, PROPERTY DAMAGE, LOST PROFITS, COST OF SUBSTITUTE GOODS OR SERVICES, LOSS OR CORRUPTION DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, COMPUTER FAILURE OR MALFUNCTION OR ANY OTHER CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL OR PUNITIVE DAMAGES.  THE FOREGOING LIMITATIONS WILL APPLY WHETHER SUCH DAMAGES ARISE OUT OF BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE AND REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE OR WE WERE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW CERTAIN LIMITATIONS OF LIABILITY SO SOME OR ALL OF THE ABOVE LIMITATIONS OF LIABILITY MAY NOT APPLY TO YOU.
+
+UNDER NO CIRCUMSTANCES SHALL WE, EVISIT LLC, AND OUR AND ITS SUBSIDIARIES, AFFILIATES, JOINT VENTURES, BUSINESS PARTNERS, SUB-CONTRACTORS, PROVIDERS, LICENSORS, EMPLOYEES, AGENTS, AND ANY THIRD-PARTY INFORMATION PROVIDERS BE LIABLE FOR ANY DAMAGES THAT RESULT FROM THE USE OF OR INABILITY TO USE THE eAMITA WEBSITE, INCLUDING BUT NOT LIMITED TO RELIANCE BY YOU ON ANY INFORMATION OBTAINED FROM THE TAPCLOUD APPLICATION OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR E-MAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO eAMITA RECORDS, PROGRAMS, OR SERVICES. YOU HEREBY ACKNOWLEDGES THAT THIS PARAGRAPH SHALL APPLY TO ALL CONTENT, DATA, AND INFORMATION SUBMITTED THROUGH THE eAMITA WEBSITE AND YOU TO THE SERVICES AVAILABLE THROUGH THE eAMITA WEBSITE.
+
+14) Miscellaneous. Failure to exercise or delay in exercising any right hereunder, or failure to insist upon or enforce strict performance of any provision of this Agreement, shall not be considered waiver thereof, which can only be made by signed writing. No single waiver shall be considered a continuing or permanent waiver. 
+The provisions of this Agreement are severable, and in the event any provision hereof is determined to be invalid or unenforceable, such invalidity or unenforceability shall not affect the validity or enforceability of the remaining provisions, but such provision shall be reformed, if reasonably possible, only to the extent necessary to make it enforceable.
+
+This Agreement shall be binding upon and inure to the benefit of each of the parties and the parties’ respective successors and permitted assigns. 
+
+By visiting the website or accessing eAMITA services, you agree that the laws of the State of Illinois, without regard to principles or conflict of laws, will govern this Agreement and any dispute that might arise between you and us. Any dispute relating in any way to your visit to the website or eAMITA services made available through the website will be adjudicated in state or federal court in the State of Illinois and you consent to exclusive jurisdiction and venue in such courts.  
+
+Unless expressly stated in this Agreement to the contrary, nothing herein is intended to confer any rights or remedies on any other persons other than you and us.
+We may revise this Agreement from time to time in our sole discretion. In the event the terms of this Agreement are revised, we will display a notice on the eAMITA website. By continuing to use the eAMITA services after those changes become effective, you agree to be bound by the revised Agreement. 
+
+[v20161208]
