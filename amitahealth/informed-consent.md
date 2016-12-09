@@ -1,7 +1,8 @@
 GENERAL CONSENT FOR TREATMENT 
 AND CONTRACT FOR eAMITA SERVICES
+==========
 
-eAMITA is a program offered and operated by AMITA Health and its managed entities (collectively, “AMITA Health”) using the video platform offered by eVisit LLC. eAMITA provides access to non-emergency medical care related to common health concerns through video-based or telephonic encounters that we refer to as “Virtual Visits”. 
+eAMITA is a program offered and operated by AMITA Health and its managed entities (collectively, "AMITA Health") using the video platform offered by eVisit LLC. eAMITA provides access to non-emergency medical care related to common health concerns through video-based or telephonic encounters that we refer to as "Virtual Visits". 
 
 1. General Authorization, Consents and Acknowledgements 
 
