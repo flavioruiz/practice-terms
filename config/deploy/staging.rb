@@ -23,4 +23,5 @@ set :linked_dirs, fetch(:linked_dirs, []).push('node_modules')
 # capistrano-npm
 set :node_env, "staging"
 set :node_user, "ubuntu"
+set :npm_target_path, -> { release_path.join('md2pdf') }
 set :npm_flags, '--silent --no-spin'
