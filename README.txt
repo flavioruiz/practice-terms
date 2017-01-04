@@ -1,10 +1,6 @@
-Setup:
+Usage:
 
-cd md2pdf/
-npm i
+node md2pdf.js practiceName --out outDir
 
-
-Usage (from project root):
-
-node md2pdf dirname
-
+* practiceName is the practice directory with the md files
+* outDir is the output directory for generated pdf files

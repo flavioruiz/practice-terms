@@ -18,7 +18,7 @@ set :stage, :staging
 
 set :branch, 'master'
 set :deploy_to, '/web/evisit.com/practice-terms'
-set :linked_dirs, fetch(:linked_dirs, []).push('node_modules')
+set :linked_dirs, fetch(:linked_dirs, []).push('md2pdf/node_modules')
 
 # capistrano-npm
 set :node_env, "staging"
